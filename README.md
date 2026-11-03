@@ -17,7 +17,7 @@
 放到 DeepSeek Harness 的 skills 目录，目录名用 `sansanweier`：
 
 ```bash
-git clone <repo> ~/.dsh/skills/sansanweier
+git clone https://github.com/Xtopia5616/sansanweier.skill.git ~/.dsh/skills/sansanweier
 ```
 
 Windows 下的目标路径是 `%USERPROFILE%\.dsh\skills\sansanweier`。也可以手动复制本目录到该位置。
