@@ -2,6 +2,36 @@
 
 散散味儿按 MIT 许可发布，见 [LICENSE](LICENSE)。下列项目为本仓库提供了参考，各自的许可和使用方式说明如下。
 
+## 说人话（shuorenhua）
+
+- 仓库：https://github.com/MrGeDiao/shuorenhua
+- 许可：MIT
+- 使用方式：`references/revision.md` 的修订稿格式、SKILL.md 优先级一节的三档修改范围、写平实的授权条件、只标问题的要求、术语和作者命名的保护、否定范围、进度、交付承诺和引号的处理，以及 `.github/ISSUE_TEMPLATE/bad-case.md`，参考了它 v2.7.0 的 SKILL.md、references 和 issue 模板，由本仓库用自己的文字改写；`docs/cases.md` 的案例十四至十七为本仓库新写。
+
+```
+MIT License
+
+Copyright (c) 2026 MrGeDiao
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
 ## Humanizer-zh
 
 - 仓库：https://github.com/op7418/Humanizer-zh

@@ -52,6 +52,6 @@ AI 味的表面形态在最近两代模型之间发生过一次更替，从翻�
 
 第二类是语料统计。痕迹在模型之间的差异、清单条目的失效、过度修改的表现，引自 lieflat-less-ai-tone 项目的 [README](https://github.com/larashero3-dotcom/lieflat-less-ai-tone/blob/main/README.md) 和 [RESEARCH.md](https://github.com/larashero3-dotcom/lieflat-less-ai-tone/blob/main/RESEARCH.md)（2026 年 11 月读取）。该项目采用 CC BY-NC 4.0 许可，本文只引用其数据和观点，用自己的文字转述，没有复制原文；语料未公开，数字无法独立核验，模型版本更新后可能失效。
 
-编辑约束另有来源，它们不属于对成因的判断。SKILL.md 中的优先级顺序、文件保护、被动句不补造主语、笼统归因保留不确定性、并列项逐项检查等要求，参考了 Humanizer-zh 2026 年 9 月修订版的 [SKILL.md](https://github.com/op7418/Humanizer-zh/blob/main/SKILL.md)（MIT 许可，2026 年 11 月读取）。这些要求来自编辑实践，依据是修改不应损失信息，与某种写法是否出自 AI 无关。
+编辑约束另有来源，它们不属于对成因的判断。SKILL.md 中的优先级顺序、文件保护、被动句不补造主语、笼统归因保留不确定性、并列项逐项检查等要求，参考了 Humanizer-zh 2026 年 9 月修订版的 [SKILL.md](https://github.com/op7418/Humanizer-zh/blob/main/SKILL.md)（MIT 许可，2026 年 11 月读取）。修订稿的格式、三档修改范围、写平实的授权条件，以及否定范围、交付承诺、作者命名和行业术语的保护，参考了说人话 v2.7.0 的 [SKILL.md](https://github.com/MrGeDiao/shuorenhua/blob/main/skills/shuorenhua/SKILL.md) 和 references（MIT 许可，2026 年 11 月读取）。说人话用一百多条测试用例检验规则，其中将近一半是不应修改的正常文字，它的规则和已知局限中写明的误改，例如把条件改成必然、把被报道的宣传说法当作作者的宣传删去，是这些约束的直接来源。这些要求来自编辑实践，依据是修改不应损失信息，与某种写法是否出自 AI 无关。
 
 第三类判断来自作者对模型输出的观察，目前没有系统的研究验证，包括人类把口语化当作自然、两代模型从翻译腔转向口语化表演、按痕迹编写的清单会随时间失效。其中最后一项已经得到上述统计的部分支持；两代形态的说法与统计材料有出入，文章写作中的模型文字并不比人类更口语化，本文已据此把它限定在对话语体和“改得自然一些”的请求上。这几项判断决定了 SKILL.md 的修改顺序，出现与之矛盾的材料时，应当先修订这里，再调整 SKILL.md。
